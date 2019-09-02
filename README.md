@@ -52,4 +52,12 @@ For any question regarding the dataset, please contact Mr. Shaokun Wang (wangskk
  **#comments**: the number of comments in a post<br>
  **#likes**: the number of likes in a post<br>
 
+#### Micro-influencer post information
+>**Brand**: brand account user name, which is paired with the micro-influencer behind<br>
+ **Micro-influencer**: micro-influencer account user name<br>
+ **Post id**: post_id=brand+micro-influencer+path1+path2<br>
+ **text**: post text information<br>
+ **timestamp**: the publish time of a post<br>
+ **#comments**: the number of comments in a post<br>
+ **#likes**: the number of likes in a post<br>
 

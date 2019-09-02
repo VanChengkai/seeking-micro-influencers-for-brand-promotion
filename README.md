@@ -29,11 +29,11 @@ Here we introduce a **brand micro-influencer dataset** which contains social med
 
 ### Download
 >The dataset, including **ground-truth, Brand post information, Micro-influencer post information, Brand post image features, Brand post text features, Micro-influencer post image features, Micro-influencer post text features**. For more detailed descriptions of the dataset, see specification below.<br>
-    Brand post information
-    Micro-influencer post information
-    Brand post image features
-  Brand post text features
-  Micro-influencer post image features
-  Micro-influencer post text features
-  Ground-truth
+**Brand post information<br>
+Micro-influencer post information<br>
+Brand post image features<br>
+Brand post text features<br>
+Micro-influencer post image features<br>
+Micro-influencer post text features<br>
+Ground-truth**<br>
 

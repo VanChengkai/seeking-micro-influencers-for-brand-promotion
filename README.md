@@ -23,7 +23,9 @@ In experiment part, _table 1_ shows the comparison between our proposed **MIR(k)
 ![figure1](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/f1.png "figure1")
 
 
-##brand micro-influencer dataset
+## brand micro-influencer dataset
 
 Here we introduce a **brand micro-influencer dataset** which contains social media information crawled from Instagram. The dataset includes: (1) **360 brand accounts categorized into 12 categories**. (2) **3748 micro-influencer accounts**. (3) **ground-truth for every positive brand micro-influencer pair that can be used for evaluation**. We crawled the latest 1,000 posts of each brand account, and found the candidates list of micro-influencers mentioned within these posts. We further crawled these candidates’ profile pages to retrieve their biographies and the number of followers. From these candidates, we selected **3748 micro-influencer accounts** under the criterion that the number of followers is between _5000_ to _100000_, and removed the non-English accounts. In this way, we paired each brand with around _11_ micro-influencers. Note that there are a small portion (around 10%) of micro-influencers belonging to multiple brands. Based on this dataset, we identify some research issues on micro-influencer marketing. Moreover, we think this dataset can greatly benefit the future researchers in this area.<br>
 
+### Download
+>The dataset, including ground-truth, Brand post information, Micro-influencer post information, Brand post image features, Brand post text features, Micro-influencer post image features, Micro-influencer post text features. For more detailed descriptions of the dataset, see specification below.<br>

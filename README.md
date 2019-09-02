@@ -53,8 +53,8 @@ For any question regarding the dataset, please contact Mr. Shaokun Wang (wangskk
  **#likes**: the number of likes in a post<br>
 
 #### Micro-influencer post information
-![table4](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t4.png "table4")
->**Brand**: brand account user name, which is paired with the micro-influencer behind<br>
+>![table4](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t4.png "table4")
+ **Brand**: brand account user name, which is paired with the micro-influencer behind<br>
  **Micro-influencer**: micro-influencer account user name<br>
  **Post id**: post_id=brand+micro-influencer+path1+path2<br>
  **text**: post text information<br>

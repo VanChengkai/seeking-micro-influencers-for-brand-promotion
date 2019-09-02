@@ -45,6 +45,7 @@ For any question regarding the dataset, please contact Mr. Shaokun Wang (wangskk
 >There are 12 categories including Airline, Auto, Clothing, Drink, Electronics, Entertainment, Food, Jewelry, Makeup, Nonprofit, Services, and Shoes. Every category includes 30 brands.<br>
 
 #### Brand post information
+>![table4](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t4.png "table4")<br>
 >**Brand**: brand account user name<br>
  **Post id**: post_id=brand+path1+path2<br>
  **text**: post text information<br>
@@ -53,7 +54,7 @@ For any question regarding the dataset, please contact Mr. Shaokun Wang (wangskk
  **#likes**: the number of likes in a post<br>
 
 #### Micro-influencer post information
->![table4](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t4.png "table4")
+>![table5](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t5.png "table5")<br>
  **Brand**: brand account user name, which is paired with the micro-influencer behind<br>
  **Micro-influencer**: micro-influencer account user name<br>
  **Post id**: post_id=brand+micro-influencer+path1+path2<br>

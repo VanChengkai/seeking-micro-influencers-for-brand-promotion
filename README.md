@@ -36,4 +36,12 @@ Brand post text features<br>
 Micro-influencer post image features<br>
 Micro-influencer post text features<br>
 Ground-truth**<br>
+For any question regarding the dataset, please contact Mr. Shaokun Wang (wangskkk@163.com)
+
+### Citation
+
+###Specification
+####Brand category
+>There are 12 categories including Airline, Auto, Clothing, Drink, Electronics, Entertainment, Food, Jewelry, Makeup, Nonprofit, Services, and Shoes. Every category includes 30 brands.<br>
+
 

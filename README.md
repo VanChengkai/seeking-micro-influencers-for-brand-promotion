@@ -8,7 +8,7 @@
 In this project, we proposed a multi-modal micro-influencer ranking methods, which leverage open data in social media to learn the relevance between brand and micro-influencers. In particular, we design a social account history pooling mechanism that leverages both posts 'visual and textual content to approximate the semantic representations of a social account. A modified listwise learning to rank model is learnt to predict ranking scores for the given brand and micro-influencers. Afterward, we utilize the learnt scoring function to recommend micro-influencers for brand promotion. The extensive evaluation demonstrates the advantage of our proposed method compared with the state-of-the-art methods.<br>
 
 In summary, the contributions of our work are as follows:<br>
-* We design a novel social account history pooling methods, which can leverage social media open data to represent brands and micro-influencers.
+* **We design a novel social account history pooling methods, which can leverage social media open data to represent brands and micro-influencers.**
 * We propose a modified listwise learning to rank model, which successfully predict ranking scores for the given brand and micro-influencers. Extensive experiments validate the effectiveness of our proposed model.
 * We collected and organized a brand-micro-influencer dataset, which can greatly benefit the future researchers in this area.
 

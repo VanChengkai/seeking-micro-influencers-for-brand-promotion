@@ -17,4 +17,7 @@ Our proposed work consists of two main components: (1) **multi-modal social acco
 We collect a **social media information dataset named brand micro-influencer dataset**. Please check dataset description for detailed information.<br>
 
 In experiment part, _table 1_ shows the comparison between our proposed **MIR(k)** with the baselines. _Table 2_ shows the comparison between different MIR variants. In order to deep dive into how the proposed method performs on the data in different categories, we set _table 3_ to report the details of results. Furthermore, to have an intuitive understanding of our proposed method, we present some examples of micro-influencer recommendation using the method described in paper. Please check section 5 in our paper for detailed information.<br>
-![table1](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t1.png "table1")
+![table1](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t01.png "table1")
+![table2](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t2.png "table2")
+![table3](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t3.png "table3")
+![figure1](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/f1.png "figure1")

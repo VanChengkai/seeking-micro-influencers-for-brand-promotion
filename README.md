@@ -61,3 +61,16 @@ For any question regarding the dataset, please contact Mr. Shaokun Wang (wangskk
  **#comments**: the number of comments in a post<br>
  **#likes**: the number of likes in a post<br>
 
+#### Brand post image features
+>We utilize pretrained CNN (VGG16) to extract visual features. Every brand post image feature is 25088-D.
+
+#### Brand post text features
+>We utilize Word2Vec to extract textual features. Every brand post text feature is 300-D.
+
+#### Micro-influencer post image features
+>We utilize pretrained CNN (VGG16) to extract visual features. Every Micro-influencer post image feature is 25088-D.
+
+#### Micro-influencer post text features
+>We utilize Word2Vec to extract textual features. Every Micro-influencer post text feature is 300-D.
+
+#### Ground-truth

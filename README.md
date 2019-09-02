@@ -44,4 +44,12 @@ For any question regarding the dataset, please contact Mr. Shaokun Wang (wangskk
 #### Brand category
 >There are 12 categories including Airline, Auto, Clothing, Drink, Electronics, Entertainment, Food, Jewelry, Makeup, Nonprofit, Services, and Shoes. Every category includes 30 brands.<br>
 
+#### Brand post information
+>Brand: brand account user name<br>
+ Post id: post_id=brand+path1+path2<br>
+ text: post text information<br>
+ timestamp: the publish time of a post<br>
+ #comments: the number of comments in a post<br>
+ #likes: the number of likes in a post<br>
+
 

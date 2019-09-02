@@ -46,7 +46,7 @@ For any question regarding the dataset, please contact Mr. Shaokun Wang (wangskk
 
 #### Brand post information
 >![table4](https://github.com/Mysteriousplayer/seeking-micro-influencers-for-brand-promotion/raw/master/pictures/t4.png "table4")<br>
->**Brand**: brand account user name<br>
+ **Brand**: brand account user name<br>
  **Post id**: post_id=brand+path1+path2<br>
  **text**: post text information<br>
  **timestamp**: the publish time of a post<br>
